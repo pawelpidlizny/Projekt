@@ -1,6 +1,6 @@
 public class MayName {
     public static void main(String[] args) {
-        String myName = "Paweł";
+        String myName = "Dawid, Amelia";
         int myFon = 57788999;
         int myAge = 22;
         double height = 1.90;

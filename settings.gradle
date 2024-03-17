@@ -1,4 +1,5 @@
 rootProject.name = 'Projekt'
 include 'Projekt-course'
 include 'Projekt-intro'
+include 'Projekt-basic-tests'
 
